@@ -1,17 +1,17 @@
 # 📝 Java Array Examples
 
 Contoh Penggunaan Array dalam Java  
-Proyek pembelajaran Java yang menampilkan berbagai operasi pada array, termasuk inisialisasi, modifikasi, dan perhitungan.
+Project Java yang menampilkan berbagai operasi pada array, termasuk inisialisasi, modifikasi, dan perhitungan.
 
 ## 📖 Deskripsi Proyek
 
-**Java_Array_Examples** adalah proyek pembelajaran Java yang berfokus pada manipulasi array. Proyek ini mencakup:
+**Java_Array_Examples** adalah project Java yang berfokus pada manipulasi array. Prject ini mencakup:
 
 - **📊 coba3.java**: Membuat array dengan ukuran 10 dan mengisinya dengan nilai berdasarkan ekspresi `2 + 2 * counter`, lalu menampilkannya dalam format tabel indeks dan nilai.
 - **🔍 coba4.java**: Menghitung total elemen dalam array yang sudah diinisialisasi dengan nilai tertentu.
 - **🛠️ coba5.java**: Mendemonstrasikan efek *passing reference* pada array dengan memodifikasi elemen secara langsung dan membandingkannya dengan modifikasi elemen tunggal.
 
-Proyek ini terdiri dari tiga file Java (**coba3.java**, **coba4.java**, **coba5.java**). Cocok untuk pemula yang ingin mempelajari pengelolaan array dalam Java. 🟢
+Proyek ini terdiri dari tiga file Java (**coba3.java**, **coba4.java**, **coba5.java**).🟢
 
 ## 🧠 Teknologi
 
